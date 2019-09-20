@@ -16,6 +16,6 @@ public class AppTest
     public void shouldAnswerWithTrue()
     {
         App app = new App();
-        assertTrue( app.getChaine() == 5);
+        assertTrue( app.getChaine() == "Mokdad");
     }
 }
